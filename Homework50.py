@@ -15,7 +15,7 @@ import asyncio
 
 
 
-api = "7308792898:AAG29SEzQcPX10e0XCuDuvbuQbK_C19XYwc"
+api = ""
 bot = Bot(token = api)
 dp = Dispatcher(bot, storage = MemoryStorage())
 
